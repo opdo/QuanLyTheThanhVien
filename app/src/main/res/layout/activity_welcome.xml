@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".WelcomeActivity"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:textColor="@color/color1"
+        android:text="@string/welcomeHi"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:textSize="18dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color1"
+        android:text="@string/welcomeCreateNew"
+        android:textAlignment="center" />
+
+    <ImageView
+        android:onClick="xuLyThem"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/ic_scan" />
+
+    <Button
+        android:onClick="xuLyThem"
+        android:id="@+id/button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:text="@string/btnAddNow" />
+</LinearLayout>

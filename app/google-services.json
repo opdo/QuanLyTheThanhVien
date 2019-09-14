@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295627358724",
+    "firebase_url": "https://quanlythethanhvien.firebaseio.com",
+    "project_id": "quanlythethanhvien",
+    "storage_bucket": "quanlythethanhvien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295627358724:android:8c7cf4ecbf4b03f6",
+        "android_client_info": {
+          "package_name": "vn.opdo.quanlythethanhvien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295627358724-9ocko91k74r3e1jcnvf229gi98bb8fnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.opdo.quanlythethanhvien",
+            "certificate_hash": "e1c20ee738cba52a778ad5e0191ef053e14e9618"
+          }
+        },
+        {
+          "client_id": "295627358724-lslelhua8l2thslac2hdrihn7erofaa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeJr1jem71KmUiPncbsHExfRtxhSEbdCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295627358724-lslelhua8l2thslac2hdrihn7erofaa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

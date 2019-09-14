@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thẻ thành viên</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menuTitleSetting" >Thiết lập</string>
+    <string name="menuTitleList">Danh sách</string>
+    <string name="menuTitleHome">Trang chính</string>
+    <string name="menuOpen">Xem</string>
+    <string name="txtSearch">Tìm thẻ thành viên của bạn</string>
+    <string name="btnOnText">Xem Barcode</string>
+    <string name="btnOffText">Xem QR Code</string>
+    <string name="btnAdd">Thêm thẻ mới</string>
+    <string name="hintScan">Quét mã để thêm thẻ thành viên</string>
+    <string name="hintClickToChange">Bấm vào hình ảnh thẻ bên trên để đổi hình khác</string>
+    <string name="txtCardName">Tên thẻ</string>
+    <string name="hintCardType">Nhập loại thẻ ở đây</string>
+    <string name="hintCardNote">Ghi chú bất cứ điều gì bạn muốn</string>
+    <string name="txtCardNote">Ghi chú</string>
+    <string name="txtCardType">Loại thẻ</string>
+    <string name="btnSave">Lưu</string>
+    <string name="btnCancel">Hủy</string>
+    <string name="txtCardID">Mã thẻ</string>
+    <string name="hintCardName">Tên gọi của thẻ</string>
+    <string name="msgSaveCard">Lưu thẻ</string>
+    <string name="msgSaveEmplty">Vui lòng nhập đầy đủ thông tin bên trên</string>
+    <string name="msgBtnOK">Đồng ý</string>
+    <string name="msgSaveError">Có lỗi xảy ra khi lưu dữ liệu, vui lòng thử lại</string>
+    <string name="msgDeleteConfirm">Bạn có muốn xóa thẻ này hay không?</string>
+    <string name="msgDeleteCard">Xóa thẻ</string>
+    <string name="msgDeleteOK">Xóa</string>
+    <string name="msgDeleteNo">Không</string>
+    <string name="msgSaveDupcate">Mã thẻ này đã tồn tại trước đó, bạn có muốn tạo thêm không?</string>
+    <string name="hintWifi">Tự động phát hiện wifi và hiển thị danh sách thẻ hay dùng</string>
+    <string name="hintSync">Đồng bộ dữ liệu với firebase</string>
+    <string name="welcomeHi">Xin chào!</string>
+    <string name="welcomeCreateNew">Chỉ cần bắt đầu với thao tác quét mã</string>
+    <string name="btnAddNow">Quét mã</string>
+    <string name="msgSettingNotHavePermission">Bạn chưa cấp quyền cho ứng dụng để dùng chức năng này</string>
+    <string name="msgPermission">Chưa cấp quyền</string>
+    <string name="msgSync">Đồng độ hóa</string>
+    <string name="msgBtnSync">Đồng bộ ngay</string>
+    <string name="msgSyncText">Ứng dụng sẽ xóa toàn bộ dữ liệu trên firebase trước đó để thêm dữ liệu mới, bạn có muốn tiếp tục hay không?</string>
+</resources>

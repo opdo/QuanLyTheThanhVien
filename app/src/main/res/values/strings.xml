@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Your Membership</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menuTitleSetting">Setting</string>
+    <string name="menuTitleList">Membership</string>
+    <string name="menuTitleHome">Home</string>
+    <string name="menuOpen">Open</string>
+    <string name="txtSearch">Search your card</string>
+    <string name="btnOnText">Show Barcode</string>
+    <string name="btnOffText">Show QR Code</string>
+    <string name="btnAdd">Add new card</string>
+    <string name="hintScan">Please scan barcode or QRCode to continue</string>
+    <string name="hintClickToChange">Click on Image Card to change another image</string>
+    <string name="txtCardName">Card name</string>
+    <string name="hintCardName">Card name here</string>
+    <string name="hintCardType">Card type here</string>
+    <string name="hintCardNote">Note anything you want</string>
+    <string name="txtCardNote">Note</string>
+    <string name="txtCardType">Type of card</string>
+    <string name="btnSave">Save</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="txtCardID">ID Card</string>
+    <string name="msgSaveCard">Save card</string>
+    <string name="msgSaveEmplty">Please check your input, one of them is empty</string>
+    <string name="msgBtnOK">OK</string>
+    <string name="msgSaveError">Error when save your card info, please try again</string>
+    <string name="msgDeleteConfirm">Do you want to delete this card?</string>
+    <string name="msgDeleteCard">Delete card</string>
+    <string name="msgDeleteOK">Delete</string>
+    <string name="msgDeleteNo">No</string>
+    <string name="msgSaveDupcate">This card id is exist in database. Do you want to continue to add this card?</string>
+    <string name="hintWifi">Auto detect your wifi and show list card you use when connect</string>
+    <string name="hintSync">Auto sync your data on firebase</string>
+    <string name="welcomeHi">Hello!</string>
+    <string name="welcomeCreateNew">Add your first membership card to continue</string>
+    <string name="btnAddNow">Add Now</string>
+    <string name="msgSettingNotHavePermission">You havent accpect permission for this app</string>
+    <string name="msgPermission">Not have Permission</string>
+    <string name="msgSync">Sync data</string>
+    <string name="msgSyncText">Hey, you just choose sync data on firebase, we will delete all your old data on firebase and create new data. Do you want to contines?</string>
+    <string name="msgBtnSync">Sync Now</string>
+
+</resources>
